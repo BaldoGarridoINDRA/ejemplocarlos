@@ -1,0 +1,5 @@
+/* You can add global styles to this file, and also import other style files */
+.contenedor-componentes {   
+    display: flex; /* Utiliza flexbox */  
+    justify-content: space-between; /* Distribuye los componentes de manera uniforme a lo largo del eje principal (horizontal) */
+}

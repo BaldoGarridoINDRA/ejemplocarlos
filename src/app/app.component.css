@@ -1,0 +1,10 @@
+
+.contenedor-componentes {   
+    display: flex; /* Utiliza flexbox */  
+    justify-content: space-between; /* Distribuye los componentes de manera uniforme a lo largo del eje principal (horizontal) */
+}
+
+.cont{
+    display: flex; /* Utiliza flexbox */
+    flex-direction: column;
+}
